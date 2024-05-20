@@ -18,12 +18,14 @@ The contents of this repository are as follows
 | S. No. | Item Name | Description |
 | :----- | :-------- | :---------- |
 | 1a | [MVG1-Direct-Linear-Transform.ipynb](./notebooks/MVG1-Direct-Linear-Transform.ipynb) | Implement DLT on images of a rubik's cube |
+| 1b | [MVG4-COLMAP-HLoc.ipynb](./notebooks/MVG4-COLMAP-HLoc.ipynb) | Useful COLMAP commands and Hierarchical Localization (SfM + PnP) Demo|
 
 The repository also contains the following
 
 | S. No. | Item Name | Description |
 | :----- | :-------- | :---------- |
 | A | [RRC-SS24-MVG-1-Camera-Calibration.pdf](./slides/RRC-SS24-MVG-1-Camera-Calibration.pdf) | Presentation MVG 1/4 |
+| A | [RRC-SS24-MVG-3-Homography-PnP-Triangulation.pdf](./slides/RRC-SS24-MVG-3-Homography-PnP-Triangulation.pdf) | Presentation MVG 3/4 |
 
 ## References
 
