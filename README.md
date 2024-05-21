@@ -3,6 +3,7 @@
 Demos for sessions on Multi-View Geometry covered in RRC Summer School 2024. The following topics are included here.
 
 - Direct Linear Transform (DLT)
+- COLMAP usage and Hierarchical Localization (SfM + PnP)
 
 ## Table of contents
 
